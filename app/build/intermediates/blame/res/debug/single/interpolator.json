@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/KairosVI/Downloads/rm00727_assignment2/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/KairosVI/.android/build-cache/7883479eb5c2ca0ce32e333ac2142335a76743ec/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/KairosVI/Downloads/rm00727_assignment2/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/KairosVI/.android/build-cache/7883479eb5c2ca0ce32e333ac2142335a76743ec/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

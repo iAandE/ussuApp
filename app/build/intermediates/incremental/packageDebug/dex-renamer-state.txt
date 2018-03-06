@@ -1,0 +1,7 @@
+#Tue Mar 06 13:16:33 GMT 2018
+base.0=/Users/KairosVI/Downloads/rm00727_assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b08108ab28eef88bb12705d4ffe4b856707766a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/KairosVI/Downloads/rm00727_assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_62405213c2e04b545a6c480f0d255ac69ff90ac1/classes.dex
+base.1=/Users/KairosVI/Downloads/rm00727_assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_62405213c2e04b545a6c480f0d255ac69ff90ac1
+file.0=/Users/KairosVI/Downloads/rm00727_assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b08108ab28eef88bb12705d4ffe4b856707766a/classes.dex
